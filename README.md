@@ -31,3 +31,17 @@
 
 ## Categorías principales ##
 
+- **Uncharted 4: A Thief's End (Exclusivos de PlayStation)/(Reliquias del Pasado)**
+- **Hollow Knight: Silksong (Juegos Indie)**
+- **Venba: (Juegos Indie)**
+- **Marvel's Wolverine: (Exclusivos de PlayStation)/(Tendencia)**
+- **Grand Theft Auto: VI (Exclusivos de PlayStation)/Tendencia)**
+
+<img width="1294" height="521" alt="image" src="https://github.com/user-attachments/assets/b38d4557-f93b-4b37-a0f9-c963214b6ec2" />
+
+
+
+
+
+
+
