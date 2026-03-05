@@ -6,6 +6,7 @@
 
 *La página está desarrollada en WordPress con un tema específico para videojuegos, lo que facilita la creación y mantenimiento del contenido relacionado con los juegos, y proporciona una experiencia visualmente atractiva para los usuarios.*
 
+---
 
 ## Instalación y configuración
 
@@ -23,6 +24,7 @@
 ### 4. WP Open Street Map
 *Permite agregar mapas interactivos de OpenStreetMap en tu sitio. Es una alternativa a Google Maps, fácil de usar y sin límites de uso.*
 
+---
 
 ## Capturas de pantalla del portal
 ![Text alternatiu](imagen1.png "Títol opcional")
@@ -38,6 +40,14 @@
 
 ![Text alternatiu](imagen2.png "Títol opcional")
 
+---
+
+## Cada entrada incluye: ##
+- *Título de la noticia.*
+- *contenido/texto de la noticia.*
+- *varias imagenes al largo de la noticia.*
+- *etiqueta correspondiente.*
+- *fecha de publicación.*
 
 
 
