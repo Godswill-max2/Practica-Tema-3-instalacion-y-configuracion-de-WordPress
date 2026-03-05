@@ -25,8 +25,7 @@
 
 
 ## Capturas de pantalla del portal
-
-<img width="1322" height="64" alt="image" src="https://github.com/user-attachments/assets/376298bb-226a-4873-b928-6817c918b801" />
+![Text alternatiu](imagen1.png "Títol opcional")
 
 
 ## Categorías principales ##
@@ -37,8 +36,7 @@
 - **Marvel's Wolverine: (Exclusivos de PlayStation)/(Tendencia)**
 - **Grand Theft Auto: VI (Exclusivos de PlayStation)/Tendencia)**
 
-<img width="1294" height="521" alt="image" src="https://github.com/user-attachments/assets/b38d4557-f93b-4b37-a0f9-c963214b6ec2" />
-
+![Text alternatiu](imagen2.png "Títol opcional")
 
 
 
